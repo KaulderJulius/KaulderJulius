@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Julius 👋
 
-<!--
-**KaulderJulius/KaulderJulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad at İstanbul Aydın University (Küçükçekmece campus) 🇹🇷
 
-Here are some ideas to get you started:
+I mess around with a bit of everything — mostly TypeScript/React for side
+projects, some Python scripts when I need to automate something boring,
+and way too much time breaking my own server setups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Full-stack web dev (React, Node, Prisma)
+- CS fundamentals: networks & computer architecture
+
+## Ask me about
+Minecraft servers, arcade rhythm games, or why my code only works
+after the third rewrite.
